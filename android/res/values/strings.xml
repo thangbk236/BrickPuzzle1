@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brick Puzzle 1</string>
+	
+	    <!-- Ads -->
+    <string name="BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="INTERSTITIAL_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="REWARDEDVIDEO_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+</resources>
